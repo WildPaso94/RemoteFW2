@@ -17,7 +17,7 @@ import javax.xml.bind.Unmarshaller;
  */
 public class Main {
 	public static void main(String[] args) {
-		
+		//Commento delle 17:24
 		final String messaggioBenvenuto = "Benvenuto! Ti trovi in un dungeon, il tuo scopo è raggiungere la casella Goal, che rappresenta la via di fuga. Buona fortuna!";
 		final String messaggioViaDiFuga = "La via di fuga si trova al Livello 10!";
 		final String messaggioNSEOUD = "Dove vuoi andare? (N/S/E/O/U/D) (0 per uscire e concludere il gioco)";
