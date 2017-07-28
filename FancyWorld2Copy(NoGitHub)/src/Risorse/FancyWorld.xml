@@ -1,0 +1,1552 @@
+<mondo name= "Fancy World">
+	<livello numero= "1">
+		<cella name= "Luogo dell'inizio">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 1 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Dead End">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 1 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 1 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 2">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "2">
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 2 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Dead End">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 2 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 3">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 2 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scala verso livello 1">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "3">
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 3 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 2">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 3 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 4">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero= "4">
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst>  </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 5">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 4 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 4 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 3">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "5">
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 5 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 4">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 5 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 6">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "6">
+		<cella name= "Scale verso livello 7">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 6 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Dead End">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 7 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 6 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 7">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "scale verso livello 5">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "7">
+		<cella name= "Scale veso livello 6">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 8">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 7 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 6">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 8">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "8">
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 8 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 7">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 8 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 9">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 7">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "9">
+		<cella name= "Scale verso livello 10">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scala verso livello 10">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 8">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 9 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 10">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 1 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 10 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+	</livello>
+	<livello numero = "10">
+		<cella name= "Scale verso livello 9">
+			<x> 0 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 1 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 0 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 1 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 9">
+			<x> 1 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 2 </x>
+			<y> 1 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Cella di passaggio">
+			<x> 0 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 1 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 9 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Scale verso livello 9">
+			<x> 1 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 1 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 1 </e>
+			<o> 0 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 10 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 0 </goal>
+		</cella>
+		<cella name= "Goal">
+			<x> 2 </x>
+			<y> 2 </y>
+			<up> 0 </up>
+			<down> 0 </down>
+			<n> 0 </n>
+			<s> 0 </s>
+			<e> 0 </e>
+			<o> 1 </o>
+			<closeEst> 0 </closeEst>
+			<closeOvest> 0 </closeOvest>
+			<closeNord> 0 </closeNord>
+			<closeSud> 0 </closeSud>
+			<chiave> 0 </chiave>
+			<start> 0 </start>
+			<goal> 1 </goal>
+		</cella>	
+	</livello>
+</mondo>
